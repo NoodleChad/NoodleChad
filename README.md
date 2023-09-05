@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoodleChad
-- 👀 I’m interested in ramen and cheap beer
-- 🌱 I’m currently learning metabolic engineering
-- 💞️ I’m looking to collaborate on microbial community modeling
+- 👀 I’m interested in optimization and its applications to metabolic engineering
+- 🌱 I’m currently learning neural networks
+- 💞️ I’m looking to collaborate on any project involving numbers, evolution and metabolism
 - 📫 How to reach me alexandre.tremblay@mail.utoronto.ca
 
 <!---
