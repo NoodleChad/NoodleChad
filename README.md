@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoodleChad
+- 👋 Hi, I’m Alexandre Tremblay (@NoodleChad)
 - 👀 I’m interested in optimization and its applications to metabolic engineering
 - 🌱 I’m currently learning neural networks
 - 💞️ I’m looking to collaborate on any project involving numbers, evolution and metabolism
